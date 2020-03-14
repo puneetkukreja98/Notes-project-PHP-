@@ -1,0 +1,21 @@
+h1{
+	text-align: center;
+    font-size: 40px;
+}
+.user_form{
+	text-align: center;
+}
+.register{
+	text-decoration: none;
+    color: #ffffff;
+    background: red;
+    font-size: 25px;
+    padding: 5px 10px;
+}
+.login{
+	text-decoration: none;
+    color: #ffffff;
+    background: blue;
+    font-size: 25px;
+    padding: 5px 10px;
+}
